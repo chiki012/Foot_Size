@@ -60,7 +60,7 @@ body {
   align-items: center;
   background-color: #491010;
   justify-content: space-between;
-  padding: 0px 40px;
+  padding: 0px 60px;
   height: 15vh;
   z-index: 10000;
   position: sticky;
@@ -563,6 +563,7 @@ footer {
   flex-wrap: wrap;
   justify-content: space-between;
   padding: 40px 80px;
+  padding-bottom: 5px;
 }
 .box {
   display: flex;
@@ -609,7 +610,8 @@ footer .box i {
 }
 footer .box i:hover,
 footer .box a:hover {
-  color: #206c74;
+  color: #4e3308;
+  font-weight: 500;
 }
 
 footer .footerCopyRight {
@@ -725,4 +727,25 @@ footer .footerCopyRight {
     height: 5vh;
   }
 }
+@media only screen and (max-width: 480px) {
+  #navbarSection .logo {
+    width: 14vw;
+  }
+}
+@media only screen and (max-width: 680px)and (min-width: 482px)  {
+  #navbarSection .logo {
+    width: 10vw;
+  }
+}
 
+@media only screen and (max-width: 1030px) and (min-width: 681px) {
+  #navbarSection .logo {
+    width: 7vw;
+  }
+}
+
+@media only screen and (min-width: 1032px){
+  #navbarSection .logo {
+    width: 5vw;
+  }
+}
