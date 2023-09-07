@@ -1,13 +1,9 @@
 # Foot_Size
-![git_record1](https://github.com/chiki012/Foot_Bank/assets/127822363/168e4753-21bc-4de2-8440-d9ee7b7e46dc)
 
-![git_record2](https://github.com/chiki012/Foot_Bank/assets/127822363/db53b804-5756-4e34-b505-d5c3e65505f9)
+https://github.com/chiki012/Foot_Size/assets/127822363/e6bef88d-5cd0-4635-a9ec-c42a2f7d4ccf
 
+https://github.com/chiki012/Foot_Size/assets/127822363/56192d74-e3e2-4f99-879e-4d393424d603
 
-![git_record3](https://github.com/chiki012/Foot_Bank/assets/127822363/221662d9-11fe-4bd2-85d4-ec28c851fe93)
+https://github.com/chiki012/Foot_Size/assets/127822363/aafb2e9b-bf1c-48a3-aa29-ea090939d6b9
 
-
-![git_res1](https://github.com/chiki012/Foot_Bank/assets/127822363/1ec80822-b85e-4745-a199-cde85a5e67a4)
-
-
-![git_res2](https://github.com/chiki012/Foot_Bank/assets/127822363/294448d8-c50a-406b-9a29-b5d0006d96b6)
+https://github.com/chiki012/Foot_Size/assets/127822363/a93d6f82-393f-42a3-afad-6703b6fe02a8
