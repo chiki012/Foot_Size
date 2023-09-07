@@ -1,4 +1,4 @@
-# Foot_Bank
+# Foot_Size
 ![git_record1](https://github.com/chiki012/Foot_Bank/assets/127822363/168e4753-21bc-4de2-8440-d9ee7b7e46dc)
 
 ![git_record2](https://github.com/chiki012/Foot_Bank/assets/127822363/db53b804-5756-4e34-b505-d5c3e65505f9)
