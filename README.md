@@ -10,5 +10,6 @@ YOU ALL CAN SEE THE FUNCTIONALITY FROM THIS LINK.
 
 https://drive.google.com/drive/folders/1XHb3cbs0kiP0Xdm_zTwUItm3KyiemTMe?usp=sharing
 
+👣 Step into Style. Step into "Foot size" ❤
 
 
