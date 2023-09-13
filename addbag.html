@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Foot Size</title>
+
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" />
+    <link rel="icon" href="logo1.png">
+    <style>
+        #navbarSection {
+            background-color: rgb(23 15 12);
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Navbar Section -->
+    <section id="navbarSection">
+
+        <a href="#"><img src="logo1.png" class="logo" alt="logo"></a>
+        <div>
+            <ul id="navbar">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="shopping.html">Shop</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+                <li><a href="addbag.html" class="active">
+                        <i class="fa-solid fa-cart-shopping"></i>
+                    </a></li>
+                <a href="#" id="closeBtn"><i class="fa-regular fa-circle-xmark"></i></a>
+            </ul>
+        </div>
+        <div id="menu">
+            <i id="menubar" class="fa-solid fa-bars"></i>
+        </div>
+    </section>
+
+    <!-- Heading Section
+    <section id="shopPageHeader" class="addBagPageHeader">
+    </section> -->
+
+    <section id="cart">
+        <table width="100%">
+            <thead>
+                <tr>
+                    <td>Remove</td>
+                    <td>Image</td>
+                    <td>Product</td>
+                    <td>Price</td>
+                    <td>Quantity</td>
+                    <td>Subtotal</td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><a href="#"><i class="far fa-times-circle"></i></a></td>
+                    <td><img src="img/products/product4.avif" alt=""></td>
+                    <td>Women Embellished Ethnic Mojaris</td>
+                    <td>₹ 3,499</td>
+                    <td><input type="number" name="" id="" value="1"></td>
+                    <td>₹ 3,499</td>
+                </tr>
+                <tr>
+                    <td><a href="#"><i class="far fa-times-circle"></i></a></td>
+                    <td><img src="img/arrival/arrival2.avif" alt=""></td>
+                    <td>Bento Courts Pumps</td>
+                    <td>₹ 13,000</td>
+                    <td><input type="number" name="" id="" value="1"></td>
+                    <td>₹ 13,000</td>
+                </tr>
+
+            </tbody>
+        </table>
+    </section>
+
+    <section id="addCart">
+        <div id="couponDiv">
+            <h3>Apply Coupon</h3>
+            <div>
+                <input type="text" name="" id="" placeholder="Enter Your Coupon">
+                <button>APPLY</button>
+            </div>
+        </div>
+
+        <div id="totalCart">
+            <h3>Cart Total</h3>
+            <table>
+                <tr>
+                    <td>Cart SubTotal</td>
+                    <td>₹ 16,499</td>
+                </tr>
+                <tr>
+                    <td>Shipping</td>
+                    <td>Free</td>
+                </tr>
+                <tr>
+                    <td> <strong>Total Amount</strong> </td>
+                    <td> <strong>₹ 16,499</strong> </td>
+                </tr>
+            </table>
+            <button>Proceed To Checkout</button>
+        </div>
+    </section>
+
+    <footer>
+        <div class="box footer1">
+            <img src="logo2.png" alt="">
+            <h4>Contact</h4>
+            <p><strong>Address: </strong>Near Police Station, Gangashahar <br>Bikaner(Rajasthan)</p>
+            <p><strong>Phone: </strong>+91 8094301208</p>
+            <div class="follows">
+                <h4>Follow Us On</h4>
+                <div class="followIcons">
+                    <i class="fa-brands fa-facebook-f"></i>
+                    <i class="fa-brands fa-instagram"></i>
+                    <i class="fa-brands fa-twitter"></i>
+                    <i class="fa-brands fa-youtube"></i>
+                </div>
+            </div>
+        </div>
+        <div class="box footer2">
+            <h4>About</h4>
+            <a href="#">About Us</a>
+            <a href="#">T & C</a>
+            <a href="#">Privacy Policy</a>
+            <a href="#">Delivery Information</a>
+            <a href="#">Contact Us</a>
+        </div>
+        <div class="box footer3">
+            <h4>My Account</h4>
+            <a href="#">Sign In</a>
+            <a href="#">Wishlist</a>
+            <a href="#">View Cart</a>
+            <a href="#">Track My Order</a>
+            <a href="#">Help</a>
+        </div>
+        <div class="box footer4">
+            <h4>Security</h4>
+            <p>Secured Payment Gateways</p>
+            <img src="img/pay/pay.png" alt="">
+        </div>
+
+        <div class="footerCopyRight">
+            &#169; 2023, Priyanka's Footwear Template
+        </div>
+    </footer>
+    <script src="index.js"></script>
+</body>
+
+</html>
